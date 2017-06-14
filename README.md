@@ -6,4 +6,4 @@ Files generated thanks to [sass-material-colors](https://github.com/minusfive/sa
 
 ## License
 
-See [LICENSE](LICENSE.md).
+See [LICENSE](LICENSE).
