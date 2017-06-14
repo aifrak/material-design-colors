@@ -281,9 +281,9 @@
 .blue-grey-900 { color: #263238; }
 
 /* Background colors */
-.black { background-color: #000; }
-.white { background-color: #fff; }
-.transparent { background-color: transparent; }
+.bg-black { background-color: #000; }
+.bg-white { background-color: #fff; }
+.bg-transparent { background-color: transparent; }
 
 .bg-red-50 { background-color: #ffebee; }
 .bg-red-100 { background-color: #ffcdd2; }
